@@ -51,6 +51,8 @@ was why I chose to specialise in the data Science field. I'll do a little introd
 
 `* Do Ask HN or Show HN receive more comments on average?`
 `* Do posts created at a certain time receive more comments on average?`
+### Conclusion
+`So, There we go, The top 5 hours to make a post for the most interaction. But this is for EST timezone, as mentioned in the documentation of the dataset. Since, my timezone is the same, I didn't need to, But you might! We found that Ask Posts made between the time 1500-1600 EST hours(3:00 pm-4:00 pm EST) received more comments. Keep in mind that we did not include the posts with no title, so essentially this analysis is only for the Ask posts.`
 
 `**You can get the downsampled dataset `**[here](https://dq-content.s3.amazonaws.com/356/hacker_news.csv)**
 
