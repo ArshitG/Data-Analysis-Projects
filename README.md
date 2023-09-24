@@ -17,6 +17,9 @@ This small file was just to to look around and get a feel of `Jupyter Notebook` 
 This project contains alot of python coding without any important libraries such as Pandas or Numphy. This analysis was done using the basic python to understand all the processes of what is happening before using any libraries to cut short that process. I was
 able to understand the logics used in Data analysis in this project, and working with real-life datasets is always fun! Here's a breif Introduction of what I did in the project:
 
+* A [dataset](https://www.kaggle.com/lava18/google-play-store-apps) containing data about approximately ten thousand Android apps from Google Play. You can download the data set directly from this [link](https://dq-content.s3.amazonaws.com/350/googleplaystore.csv).
+* A [dataset](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps) containing data about approximately seven thousand iOS apps from the App Store. You can download the data set directly from this [link](https://dq-content.s3.amazonaws.com/350/AppleStore.csv).
+
 `Our aim in this project is to find mobile app profiles that are profitable for the App Store and Google Play markets. We're working as data analysts for a company that builds Android and iOS mobile apps, and our job is to enable our
 team of developers to make data-driven decisions with respect to the kind of apps they build.`
 
@@ -39,4 +42,16 @@ experience can be a good idea. We can include Discussion Forums and quizes on th
 
 ---
 ## HackerNews Dataset Analysis
+In this Project, I mainly played around with the dates and times using the `Python datetime module`, exploring the datetime library was really fun and sometimes it was complex but understanding the complex problems
+was why I chose to specialise in the data Science field. I'll do a little introduction about what this project was about:
+
+`or all of you who do not know what HackerNews is,Hacker News is a site started by the startup incubator Y Combinator, where user-submitted stories (known as "posts") receive votes and comments, similar to reddit. Hacker News is extremely popular in technology and startup circles, and posts that make it to the top of the Hacker News listings can get hundreds of thousands of visitors as a result.You can find the original data set` **[here](https://dq-content.s3.amazonaws.com/356/hacker_news.csv)**
+
+`In this Project,We're specifically interested in posts with titles that begin with either Ask HN or Show HN. Users submit Ask HN posts to ask the Hacker News community a specific question. Likewise, users submit Show HN posts to show the Hacker News community a project, product, or just something interesting. We are going to analyze a downsampled dataset of HackerNews posts to analyze the following things:`
+
+`* Do Ask HN or Show HN receive more comments on average?`
+`* Do posts created at a certain time receive more comments on average?`
+
+`**You can get the downsampled dataset `**[here](https://dq-content.s3.amazonaws.com/356/hacker_news.csv)**
+
 
