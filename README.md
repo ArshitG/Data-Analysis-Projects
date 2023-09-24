@@ -2,7 +2,7 @@
 ---
 ## Table Of contents
 1. [Basics_Project_in_Jupyter_Beginning.ipynb](#Basics_Project_in_Jupyter_Beginning.ipynb)
-2. [Data_analysis_of_GooglePlay_and_Appstore_Project_1.ipynb](##Data_analysis_of_GooglePlay_and_Appstore_Project_1.ipynb)
+2. [Data_analysis_of_GooglePlay_and_Appstore_Project_1.ipynb](#Data-analysis-of-GooglePlay-and-Appstore-Project-1)
 3. [HackerNews_Dataset_Analysis.ipynb](#HackerNews_Dataset_Analysis.ipynb)
 4. 
 5. To Be Continued...
@@ -12,7 +12,7 @@
 This small file was just to to look around and get a feel of `Jupyter Notebook` , I opened a file, made a table and played around with code cells and markdown cells and understood the shortcuts of Jupyter Notebook and got the hang of Markdown references.
 
 ---
-## Data_analysis_of_GooglePlay_and_Appstore_Project_1.ipynb
+## Data analysis of GooglePlay and Appstore Project 1
 
 This project contains alot of python coding without any important libraries such as Pandas or Numphy. This analysis was done using the basic python to understand all the processes of what is happening before using any libraries to cut short that process. I was
 able to understand the logics used in Data analysis in this project, and working with real-life datasets is always fun! Here's a breif Introduction of what I did in the project:
