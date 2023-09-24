@@ -1,13 +1,13 @@
 # Data-Analysis-Projects
 ---
 ## Table Of contents
-1. [Basics_Project_in_Jupyter_Beginning.ipynb](#Basics_Project_in_Jupyter_Beginning.ipynb)
+1. [Basics Project in Jupyter Beginning](#Basics-Project-in-Jupyter-Beginning)
 2. [Data_analysis_of_GooglePlay_and_Appstore_Project_1.ipynb](#Data-analysis-of-GooglePlay-and-Appstore-Project-1)
-3. [HackerNews_Dataset_Analysis.ipynb](#HackerNews_Dataset_Analysis.ipynb)
+3. [HackerNews Dataset Analysis](#HackerNews-Dataset-Analysis)
 4. 
 5. To Be Continued...
 ---
-## Basics_Project_in_Jupyter_Beginning.ipynb
+## Basics Project in Jupyter Beginning
 
 This small file was just to to look around and get a feel of `Jupyter Notebook` , I opened a file, made a table and played around with code cells and markdown cells and understood the shortcuts of Jupyter Notebook and got the hang of Markdown references.
 
@@ -38,5 +38,5 @@ The conclusion above was for Google Play aand  The conclusion that I found after
 experience can be a good idea. We can include Discussion Forums and quizes on the books to make the app more interactive.`
 
 ---
-## HackerNews_Dataset_Analysis.ipynb
+## HackerNews Dataset Analysis
 
