@@ -2,7 +2,7 @@
 ---
 ## Table Of contents
 1. [Basics Project in Jupyter Beginning](#Basics-Project-in-Jupyter-Beginning)
-2. [Data_analysis_of_GooglePlay_and_Appstore_Project_1.ipynb](#Data-analysis-of-GooglePlay-and-Appstore-Project-1)
+2. [Data analysis of GooglePlay and Appstore Project 1](#Data-analysis-of-GooglePlay-and-Appstore-Project-1)
 3. [HackerNews Dataset Analysis](#HackerNews-Dataset-Analysis)
 4. 
 5. To Be Continued...
