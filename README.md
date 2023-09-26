@@ -4,7 +4,7 @@
 1. [Basics Project in Jupyter Beginning](#Basics-Project-in-Jupyter-Beginning)
 2. [Data analysis of GooglePlay and Appstore Project 1](#Data-analysis-of-GooglePlay-and-Appstore-Project-1)
 3. [HackerNews Dataset Analysis](#HackerNews-Dataset-Analysis)
-4. [Analyzing Ebay Car Sales Dataset](#Analysing-Ebay-Car-Sales-Dataset)
+4. [Analyzing Ebay Car Sales Dataset](#Analyzing-Ebay-Car-Sales-Dataset)
 5. To Be Continued...
 ---
 ## Basics Project in Jupyter Beginning
