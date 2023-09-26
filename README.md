@@ -62,7 +62,8 @@ was why I chose to specialise in the data Science field. I'll do a little introd
 ## Analyzing Ebay Car Sales Dataset
 In this project, I used pandas and NumPy libraries of Python and used as many concepts of DataFrames and series as I could, to get a thorough understanding of the libraries, I used the pandas documentation to understand the arguments of each method I was using, I learned a lot in this project such as Boolean Indexing, aggregation, and storing aggregate data in a DataFrame.
 
-Introduction:
+### Introduction:
+
 `
 In this project, We are going to work with dataset of used cars from eBay Kleinanzeigen, a classifieds section of the German eBay website. The dataset was originally uploaded on Kaggle by user orgesleka, but it's not available there anymore. You can access the dataset `[here](https://data.world/data-society/used-cars-data)`. The dataset we are going to use is a less cleaned version of the data, with 50,000 data points. Our aim in this project is to clean the data and analyze used car listings.`
 
