@@ -89,14 +89,14 @@ In this project, I focused on Exploratory Data Visualization, I used the Matplot
 
 ### Conclusion 
 
-`#### Time Indicators:`
-`* Warm Months(March-September) are busies than colder months(October-February)`
-`* Business Days are busier than Weekends.`
-`* Rush hours are 7 and 16 on business days.`
-`#### Weather Indicators:`
-`* Proximity thunderstorm with drizzle`
-`* Shower snow`
-`* Light rain and snow`
+#### `Time Indicators:`
+* `Warm Months(March-September) are busies than colder months(October-February)`
+* `Business Days are busier than Weekends.`
+* `  Rush hours are 7 and 16 on business days.`
+#### `Weather Indicators:`
+* `Proximity thunderstorm with drizzle`
+* `Shower snow`
+* `Light rain and snow`
 
 
 
