@@ -75,8 +75,9 @@ In this project, I focused on Exploratory Data Visualization, I used the Matplot
 ### Introduction
 `There are two types of Data Visualizations:`
 
-`* Exploratory`
-`* Explanatory`
+* `Exploratory`
+
+* `Explanatory`
 
 `Exploratory data visualization is used by analysts for their own usage and to understand the data better, Whereas, Explanatory Data Visualization is used for communicating and explaining to others of the patterns found while exploration. In this Project, We will focus on Exploratory data visualization.`
 
