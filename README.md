@@ -70,11 +70,32 @@ In this project, We are going to work with dataset of used cars from eBay Kleina
 ---
 
 ## Exploratory Data Visualization on The I-94 Traffic Dataset
+In this project, I focused on Exploratory Data Visualization, I used the Matplotlib library and made use of bar charts, horizontal bar charts, line plots and scatter plots to represent and analyse different Data, It was really fun to use this library and I read alot of the documentation as I was using all the libraries. Here's a brief intoduction on the project and also the conclusion I got after completing the project:
 
+### Introduction
+`There are two types of Data Visualizations:`
 
+`* Exploratory`
+`* Explanatory`
 
+`Exploratory data visualization is used by analysts for their own usage and to understand the data better, Whereas, Explanatory Data Visualization is used for communicating and explaining to others of the patterns found while exploration. In this Project, We will focus on Exploratory data visualization.`
 
+`We're going to analyze a dataset about the westbound traffic on the I-94 Interstate highway.`
 
+`John Hogue made the dataset available, and you can download it from the` [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume).
+
+`The goal of our analysis is to determine a few indicators of heavy traffic on I-94. These indicators can be weather type, time of the day, time of the week, etc. For instance, we may find out that the traffic is usually heavier in the summer or when it snows.`
+
+### Conclusion 
+
+`#### Time Indicators:`
+`* Warm Months(March-September) are busies than colder months(October-February)`
+`* Business Days are busier than Weekends.`
+`* Rush hours are 7 and 16 on business days.`
+`#### Weather Indicators:`
+`* Proximity thunderstorm with drizzle`
+`* Shower snow`
+`* Light rain and snow`
 
 
 
