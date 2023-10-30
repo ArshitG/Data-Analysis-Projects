@@ -6,7 +6,7 @@
 3. [HackerNews Dataset Analysis](#HackerNews-Dataset-Analysis)
 4. [Analyzing Ebay Car Sales Dataset](#Analyzing-Ebay-Car-Sales-Dataset)
 5. [Exploratory Data Visualization on The I-94 Traffic Dataset](#Exploratory-Data-Visualization-on-The-I-94-Traffic-Dataset)
-6.[StoryTelling Data Visualization](#StoryTelling-Data-Visualization)
+6. [StoryTelling Data Visualization](#StoryTelling-Data-Visualization)
 7.  To be Continued...
 ---
 ## Basics Project in Jupyter Beginning
@@ -101,6 +101,16 @@ In this project, I focused on Exploratory Data Visualization, I used the Matplot
 * `Light rain and snow`
 
 ## StoryTelling Data Visualization
+
+In this project, I used the following concepts to plot a graph for the audience:
+* information design principles (familiarity and maximizing the data-ink ratio)
+* visual patterns using Gestalt principles
+* Guide the audience's attention with pre-attentive attributes.
+* Matplotlib built-in styles
+
+The [Dataset](https://www.kaggle.com/lsind18/euro-exchange-daily-rates-19992020) we are using in this project was uploaded to Kaggle by Daria Chemkaeva. The Dataset describes Euro daily exchange rates between 1999 and 2021.
+
+The final result for the project:
 
 
 
