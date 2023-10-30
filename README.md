@@ -6,7 +6,8 @@
 3. [HackerNews Dataset Analysis](#HackerNews-Dataset-Analysis)
 4. [Analyzing Ebay Car Sales Dataset](#Analyzing-Ebay-Car-Sales-Dataset)
 5. [Exploratory Data Visualization on The I-94 Traffic Dataset](#Exploratory-Data-Visualization-on-The-I-94-Traffic-Dataset)
-6. To be Continued...
+6.[StoryTelling Data Visualization](#StoryTelling-Data-Visualization)
+7.  To be Continued...
 ---
 ## Basics Project in Jupyter Beginning
 
@@ -98,6 +99,8 @@ In this project, I focused on Exploratory Data Visualization, I used the Matplot
 * `Proximity thunderstorm with drizzle`
 * `Shower snow`
 * `Light rain and snow`
+
+## StoryTelling Data Visualization
 
 
 
