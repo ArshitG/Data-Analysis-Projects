@@ -110,7 +110,9 @@ In this project, I used the following concepts to plot a graph for the audience:
 
 The [Dataset](https://www.kaggle.com/lsind18/euro-exchange-daily-rates-19992020) we are using in this project was uploaded to Kaggle by Daria Chemkaeva. The Dataset describes Euro daily exchange rates between 1999 and 2021.
 
-The final result for the project:
+**The `final result` for the project:**
+
+
 ![Image of final Graph made in this project](https://github.com/ArshitG/Data-Analysis-Projects/blob/main/Graph.png)
 
 
